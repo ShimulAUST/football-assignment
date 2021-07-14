@@ -10,6 +10,7 @@ body {
     overflow: hidden;
     color: #ddd;
     align-items: center;
+    margin-left: 8%;
   }
 
   .topnav a {
